@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FUMI Towel｜從台灣織出你的日常",
+  title: "FUMI Towel | 台灣毛巾選品與客製服務",
   description:
-    "FUMI Towel 來自台灣傳統毛巾工廠，以剩紗再生、柔軟織造與客製化服務，製作日常會一直用到的毛巾。",
+    "FUMI Towel 結合台灣毛巾工廠工藝、日常選品、客製服務與未來自有電商系統。",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
